@@ -1,13 +1,15 @@
-Bubble sort
-Insertion sort
-Selection sort
-Quick sort
-Shell sort - Knuth Sequence
-Cocktail shaker sort
-Counting sort
-Merge sort
-Heap sort
-Radix sort
-Bitonic sort
-Quick Sort - Hoare Partition scheme
-Dealer
+# sorting_algorithms
+## Tasks
+0. Bubble sort
+1. Insertion sort
+2. Selection sort
+3. Quick sort
+4. Shell sort - Knuth Sequence
+5. Cocktail shaker sort
+6. Counting sort
+7. Merge sort
+8. Heap sort
+9. Radix sort
+10. Bitonic sort
+11. Quick Sort - Hoare Partition scheme
+12. Dealer
